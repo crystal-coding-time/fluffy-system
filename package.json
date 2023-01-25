@@ -1,6 +1,15 @@
 {
-  "dependencies": {
-    "inquirer": "^8.2.5",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystal-coding-time/fluffy-system"
+  },
+  "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.5"
   }
 }
